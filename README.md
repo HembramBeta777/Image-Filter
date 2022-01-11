@@ -75,7 +75,7 @@ Push changes to your forked `Image-Filter` repository
 git push origin master
 ```
 
-Now you are ready to start contributing and sending pull requests. See [contributing guide](https://github.com/chandrakant100/Image-Filter/blob/main/CONTRIBUTING.md).
+Now you are ready to start contributing and sending pull requests. See [contributing guide](https://github.com/Blaze-Stars/Image-Filter/blob/main/CONTRIBUTING.md).
 
 
 ## Languages Used
